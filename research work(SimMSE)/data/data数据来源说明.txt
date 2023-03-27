@@ -1,0 +1,4 @@
+测评数据集来源于：
+https://github.com/facebookresearch/SentEval
+无监督语料来源于：
+https://github.com/princeton-nlp/SimCSE/tree/main/data
